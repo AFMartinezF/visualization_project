@@ -2,7 +2,7 @@
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.8.2-green)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-v0.13.0-lgreen?logo=seaborn)](https://seaborn.pydata.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-v2.1.4-42AE6E?logo=pandas)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-v2.1.4-42AE6E?logo=pandas)](https://pandas.pydata.org/)
 
 
 Este es el proyecto final del Curso de Visualización de Datos con Matplotlib y Seaborn de Platzi. En donde se aplican los conceptos vistos en el curso en una serie de visualizaciones de los datos contenidos en un dataset sobre peliculas alojado en kaggle.
